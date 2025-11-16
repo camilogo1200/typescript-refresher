@@ -1,5 +1,5 @@
 // let - Mutable variables
-// const - Immutable variables ( constant values )
+// const - variables ( constant values )
 
 let firstName = "John";
 let lastName = "Cage";
